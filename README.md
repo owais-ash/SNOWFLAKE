@@ -1,6 +1,6 @@
 # Snowflake Assignment
 
-This repository contains documentation and scripts for setting up roles, warehouses, and tables in Snowflake, as per the structured approach defined in our project requirements.
+This repository contains documentation for setting up roles, warehouses, and tables in Snowflake, as per the structured approach defined in our project requirements.
 
 ## Overview
 I've implemented a Snowflake schema to handle various tasks including role management, warehouse creation, data loading, and querying without loading data into tables. This approach emphasizes security and efficiency, particularly with PII data.
